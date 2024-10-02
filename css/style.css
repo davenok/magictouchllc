@@ -337,8 +337,12 @@ ol.type li a:hover {
 	-moz-transition-property: -moz-transform, opacity;
 	transition-property: transform, opacity;
 }
+/* portfolio */
 .portfolio-item {
 	margin: 15px 0;
+	border-style: solid;
+	border-color: #5f9d07;
+	border-width: 4px;
 }
 .portfolio-item .hover-bg {
 	overflow: hidden;
